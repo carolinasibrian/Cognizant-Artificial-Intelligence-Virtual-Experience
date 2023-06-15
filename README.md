@@ -130,3 +130,7 @@ After performing the tests, the ML engineering team wants to discuss with you so
 4. We would like to explore the possibility of using a more complex machine learning algorithm to see how it compares to the current Random Forest. Can you suggest one to try? - **Neural Network**
 5. What would be a disadvantage of using the more complex model from the previous question, against the current Random Forest? - **More difficult to explain the algorithms results**
 6. Can you suggest a way that we can optimize the performance of the current Random Forest algorithm? In particular, we want to know how we can improve the MAE of the current algorithm. - **Tune hyperparameters**
+
+----
+
+# [Certificate](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/Cognizant/5N2ygyhzMWjKQmgCK_Cognizant_p6zCfyAog39HPazpa_1685731949813_completion_certificate.pdf)
